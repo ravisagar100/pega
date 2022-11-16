@@ -1,7 +1,7 @@
 # pega
 ### Stream (externalized Kafka service) example with bitnami kafka
 
-For testing purpose you can isntall bitnami kafka using below commands 
+For testing purpose you can install bitnami kafka using below commands 
 
 ```
 helm repo add bitnami https://charts.bitnami.com/bitnami

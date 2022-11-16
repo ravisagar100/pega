@@ -1,5 +1,4 @@
 # pega
-external kafka testing
 ### Stream (externalized Kafka service) example with bitnami kafka
 
 For testing purpose you can isntall bitnami kafka using below commands and then bootstrap the URL in the values.yaml file used for Pega Deployment for Stream service

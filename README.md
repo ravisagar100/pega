@@ -6,7 +6,7 @@ For testing purpose you can install bitnami kafka using below commands
 helm repo add bitnami https://charts.bitnami.com/bitnami
 helm install my-kafka bitnami/kafka
 ```
-After you deploy a Kafka service in your organization, you can populate the service's Kafka `bootstrapServer` URL. You configure the bootstrap URL in the Pega `values.yaml` file in the `Stream (externalized Kafka service)` settings
+After you deploy a Kafka service in your organization, you can populate the service's Kafka `bootstrapServer` URL. You configure the bootstrap URL in the Pega `values.yaml` file in the `Stream (externalized Kafka service) settings`
 section to establish connectivity between Pega and your Kafka cluster as shown in the following example .
 In the example, in the `bootstrapServer` parameter, "my-kafka" is the release name and "mypega" is the namespace of the Pega deployment. For your deployment, replace this general example with the specific release name and namespace. When your deployment starts it connects to your Kafka service.
 

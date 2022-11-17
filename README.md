@@ -1,4 +1,4 @@
-# pega
+
 ### Stream (externalized Kafka service) example with bitnami kafka
 
 For testing purpose you can install bitnami kafka using below commands 

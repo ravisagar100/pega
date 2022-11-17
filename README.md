@@ -1,5 +1,5 @@
 
-### Stream (externalized Kafka service) example with bitnami kafka
+### Stream (externalized Kafka service) test example with bitnami kafka
 
 For testing purpose you can install bitnami kafka using below commands 
 
